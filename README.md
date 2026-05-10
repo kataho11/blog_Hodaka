@@ -1,2 +1,2 @@
-# blog_Hodaka
-blog-Hodaka
+# blog-hodaka
+blog-hodaka
